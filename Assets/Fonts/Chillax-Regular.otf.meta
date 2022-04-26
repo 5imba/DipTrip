@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 26fe924199941cd4f8e913c049cd875a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Chillax
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f2f368e737edca5449ca7a4f9c3ad705, type: 3}
+  - {fileID: 12800000, guid: 02e119441bc42014e89bf07522636420, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
